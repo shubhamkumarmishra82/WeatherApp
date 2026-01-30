@@ -3,7 +3,7 @@
 A simple weather application built using HTML, CSS, and JavaScript.
 This app allows users to check real-time weather information for any city.
 
-Features
+#Features
 
 Search weather by city name
 
@@ -31,6 +31,6 @@ Click the search button
 
 View the current weather details
 
-Project Purpose
+#Project Purpose
 
 This project was created to practice JavaScript, API integration, and front-end development skills.
